@@ -1,0 +1,5 @@
+type,securities_contracts,direction,price_ticker
+Equity,10,Long,AAPL
+Equity,10,Long,AMZN
+Equity,10,Long,FB
+Equity,10,Long,GOOG
