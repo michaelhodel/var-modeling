@@ -1,2 +1,2 @@
 # var-modeling
-Parametric, Monte Carlo and Historical Value-at-Risk Modeling
+Value-at-Risk Modeling via the Variance-Covatiance Method, Monte Carlo Simulation and Bootstrap Historical Simulation.
